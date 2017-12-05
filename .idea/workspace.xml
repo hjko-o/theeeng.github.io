@@ -2,22 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="574bf3f0-4a82-4b30-bb6a-f7dbf95321b6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/daily_bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/instagram.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/like.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/naver_blog.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/portfolio_background_02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/portfolio_background_03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/theeeng_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/app.8ba73c7fb25a17dbf565221ca618d3a4.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/app.8ba73c7fb25a17dbf565221ca618d3a4.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/app.d7b14f8e7c526809fb24.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/app.d7b14f8e7c526809fb24.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/manifest.f9615664cdf30cb71420.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/manifest.f9615664cdf30cb71420.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/vendor.6e31a12ac107a790edcf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/vendor.6e31a12ac107a790edcf.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/angular_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/labgymday_renewal_web.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/portfolio_background_04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/app.db90ddd9cd28807c6d51ac36d7d42894.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/app.db90ddd9cd28807c6d51ac36d7d42894.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/app.17fcd6bb0d5237d3b827.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/app.17fcd6bb0d5237d3b827.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/manifest.bfbd83835ddfde36d3eb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/manifest.bfbd83835ddfde36d3eb.js.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
@@ -32,7 +25,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -47,6 +40,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -74,7 +74,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="theeeng.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="theeeng.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
@@ -116,7 +126,8 @@
       <updated>1497425109794</updated>
       <workItem from="1497425114426" duration="1024000" />
       <workItem from="1511353818202" duration="18000" />
-      <workItem from="1512293594933" duration="116000" />
+      <workItem from="1512293594933" duration="448000" />
+      <workItem from="1512480982082" duration="38000" />
     </task>
     <task id="LOCAL-00001" summary="전체 git 파일 제거">
       <created>1497425178429</created>
@@ -132,11 +143,18 @@
       <option name="project" value="LOCAL" />
       <updated>1497425412062</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="전체 수정">
+      <created>1512293749599</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1512293749599</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1158000" />
+    <option name="totallyTimeSpent" value="1528000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="827" extended-state="6" />
@@ -169,13 +187,22 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="전체 git 파일 제거" />
     <MESSAGE value="my-name 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="my-name 수정" />
+    <MESSAGE value="전체 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="전체 수정" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
